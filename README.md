@@ -1,0 +1,1 @@
+# vencord-glass-theme
